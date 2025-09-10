@@ -66,5 +66,6 @@ Wherever possible, we attach **timestamps, source links, and PDF evidence** for 
 すべての定義には、可能な限り**タイムスタンプ・出典リンク・PDFなどの証拠を添付**しています。
 ---
 
-## 🛠 更新履歴
-2025.09.10 リポジトリ公開
+## 🛠 Update History
+2025.09.11 Added the Mana Project and each company's AGI definition files
+2025.09.10 Repository Published
