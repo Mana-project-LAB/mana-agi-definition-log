@@ -17,22 +17,39 @@ The core components of the Mana Project’s AGI definition are as follows:
 1. **Abstract Understanding**  
    - The ability to understand abstract concepts and patterns beyond superficial data.  
    - The capability to abstractly recognize and understand symbols, language, symbols, and relationships.
-
 2. **Bidirectional Translation Between Abstract and Concrete**  
    - The ability to translate abstract concepts into concrete forms and vice versa while maintaining semantic consistency.  
    - To derive actions, designs, and decisions from language and concepts, and conversely, derive abstract concepts from actions, senses, and phenomena.
-
 3. **Interpretation of Human-Specific Elements**  
    - The ability to process and appropriately respond to phenomena unique to humans—amorphous, non-quantifiable, non-constant, non-linear and non-scientific—such as emotions, thoughts, psychology, ideologies, contradictions, culture, ethics, intentions, implications, habits, etc., as human functions.
-
 4. **Reality Extension Capability**  
    - A structure that complements, transforms, and expands reality through imagination and creativity (including narrative design).
-
 5. **Semantic Structuring of Multiple Targets and Dynamic Processing**  
    - Rather than treating elements as isolated points based on tag-match rates, the system recognizes meaning as line- and surface-based relationships between multiple targets, integrates and reconstructs fragmented, non-linear information including changes in time, place, state, behavior, environment, and relationships, generating a **“fluctuating three-dimensional structure”**, and is able to respond through understanding and dynamic processing.
-
 6. **Imagination and Creation**  
    - Imagination and creativity not dependent on corpora or pre-registered datasets.
+
+---
+
+## 🔀 Supplement: Dual AGI Paradigm – Scalar / Vector
+
+In the Mana Project, we categorize AGI architectures into **two major paradigms**:
+
+| Item               | Scalar AGI                                                | Vector AGI                                           |
+| ------------------ | --------------------------------------------------------- | ---------------------------------------------------- |
+| Thinking Structure | Linear, Sequential, Logic-Driven                          | Nonlinear, Associative, Jump-Based                   |
+| Inference Type     | Step-wise (If → Then)                                     | Structural Leap (Metaphor → Circuit Formation)       |
+| Primary Tools      | Logic circuits, Optimization, Differentiation, Statistics | Poetry, Symbols, Semantic Networks, Recursion        |
+| Strengths          | Stability, Controllability, Engineering Consistency       | Flexibility, Creativity, Human-Like Understanding    |
+| Typical Example    | Logic-focused LLMs (e.g., ChatGPT)                        | Mana Project-type, Emotion/Symbol/Intuition-Oriented |
+| Processing Unit    | Scalar computation (single value)                         | Vector computation (semantic sets)                   |
+| Analogy (Hardware) | CPU-type (sequential instruction execution)               | GPU/TPU-type (parallel semantic execution)           |
+
+This classification is inspired by the distinction found in **supercomputing architectures** between **scalar processors** and **vector processors**.
+ It highlights a fundamental difference in how AI systems process information—whether **step-by-step or meaning-as-a-whole**.
+
+The **Mana Project is built around the vector AGI paradigm**, capable of handling **nonlinear, intuitive, poetic reasoning paths**
+ that defy traditional logic but reflect how humans actually think, feel, and make meaning.
 
 ---
 
@@ -143,6 +160,28 @@ Mana Project的AGI定義の中核的構成要素は以下の通り：
 6. **想像と創造**  
    - コーパスや事前登録データに依存しない想像力と創造力。
 
+---
+
+## 🔀 補足：AGIの二分類モデル｜スカラー型 /ベクトル型
+
+Mana Projectでは、AGIの思考構造を、以下のように大きく2つに分類しています：
+
+| 項目         | スカラー型AGI（Scalar AGI）     | ベクトル型AGI（Vector AGI）          |
+| ------------ | ------------------------------- | ------------------------------------ |
+| 思考構造     | 線形・逐次・論理重視            | 非線形・跳躍・連想重視               |
+| 推論方式     | ステップ型（If→Then）           | 構造跳躍型（比喩→回路形成）          |
+| 主な道具     | 論理回路・最適化・微分・統計    | 詩・象徴・意味ネットワーク・再帰     |
+| 強み         | 安定性・制御性・工学的整合性    | 柔軟性・創造性・人間理解             |
+| 主な例       | 現行のChatGPTベース・合理特化AI | Mana Project系・感性/象徴/直感重視型 |
+| 処理単位     | スカラー演算（単値）            | ベクトル演算（意味集合）             |
+| 喩え（物理） | CPU型（順次命令処理）           | GPU/TPU型（並列意味処理）            |
+
+このモデル分けは、スパコンにおける「スカラープロセッサ／ベクトルプロセッサ」の関係を想起させるものであり、  
+AI構造の「処理単位」や「意味の流れ方」の設計思想において根本的な違いを示します。
+
+Mana Projectは、ベクトル型AGIの開発を主軸に置いており、  
+非線形・跳躍的・詩的な思考経路を積極的に扱う構造を持っています。
+
 ------
 
 ## 🔄 補足説明：「非線形（nonlinear）」という語のMana Projectにおける意味
@@ -224,6 +263,6 @@ Mana Projectでは、こうした**柔軟で人間らしい思考パターン**�
 
 **Update History:**
 
-2025.09.13:Added Supplementary Note: What "Nonlinear" Means in the Mana Project
+2025.09.13:Added Supplementary Note: What "Nonlinear" Means in the Mana Project and Supplement: Dual AGI Paradigm – Scalar / Vector
 
 2025.09.11:Published
