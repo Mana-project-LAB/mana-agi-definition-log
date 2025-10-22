@@ -1,0 +1,24 @@
+Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+
+この作品は、クリエイティブ・コモンズ 表示 - 非営利 - 改変禁止 4.0 国際 ライセンスの下で提供されています。
+
+You are free to:
+- Share $2014 copy and redistribute the material in any medium or format
+
+Under the following terms:
+- Attribution $2014 You must give appropriate credit.
+- NonCommercial $2014 You may not use the material for commercial purposes.
+- NoDerivatives $2014 If you remix, transform, or build upon the material, you may not distribute the modified material.
+
+Full license text: https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+Copyright (c) 2025 Mana-project-LAB
+
+---
+
+Supplementary Licensing Note:
+
+This project is currently licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).  
+However, for specific academic, governmental, or institutional research collaboration purposes, a relicense to a more permissive license (such as the MIT License) **may be considered upon formal request**.  
+Such consideration will be evaluated on a case-by-case basis in alignment with the goals and values of the Mana Project Lab.  
+Please contact the maintainer for inquiries.
