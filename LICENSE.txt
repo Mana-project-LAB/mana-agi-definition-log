@@ -21,4 +21,4 @@ Supplementary Licensing Note:
 This project is currently licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).  
 However, for specific academic, governmental, or institutional research collaboration purposes, a relicense to a more permissive license (such as the MIT License) **may be considered upon formal request**.  
 Such consideration will be evaluated on a case-by-case basis in alignment with the goals and values of the Mana Project Lab.  
-Please contact the maintainer for inquiries.
+Please contact the maintainer for inquiries. 
