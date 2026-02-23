@@ -28,8 +28,12 @@ Whether claiming “our AI is AGI!” or asking “what is AGI?”, **many simpl
 - The **"why build AGI?"** question is rarely explored in depth
 
 This repository logs and compares **each organization's definition of AGI** and monitors whether the “goalposts” are shifting over time.  
-Wherever possible, we attach **timestamps, source links, and PDF evidence** for each definition.
 
+Wherever possible, we attach **timestamps, source links, and PDF evidence** for each definition.  
+
+We cannot take responsibility for the ability of the translation summarizers, so summarization during escalation is prohibited in all Mana Project repositories. We will not be held responsible for any misinterpretation due to loss of meaning.  
+
+  
 ---
 
 # 📘 AGIの定義って、実はバラバラなんです
@@ -64,10 +68,12 @@ Wherever possible, we attach **timestamps, source links, and PDF evidence** for 
 このリポジトリでは、そんな**各組織の定義を記録・比較し、時間の経過とともにゴールポストが動いていないかを観測**していきます。  
 
 すべての定義には、可能な限り**タイムスタンプ・出典リンク・PDFなどの証拠を添付**しています。
----
+
+翻訳要約者の能力に責任が持てないため、Mana Projectの全リポジトリにおいて、エスカレーション時の要約を禁止します。意味損失による解釈判断ミスに一切の責任を負いません。
 
 
 ## 🛠 Update History
-2025.09.11 Added the Mana Project and each company's AGI definition files  
-2025.09.10 Repository Published
+2026-02-23 Add Escalation Policy
+2025-09-11 Added the Mana Project and each company's AGI definition files  
+2025-09-10 Repository Published
 
